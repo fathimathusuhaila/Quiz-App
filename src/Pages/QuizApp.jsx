@@ -25,7 +25,7 @@ function QuizApp() {
     <div className="quiz-container">
       {isSubmit ? (
         <div className="score-display">
-          "Great Job!<br/> Your final score: {score}
+          Great Job!<br/> Your final score: {score}
         </div>
       ) : (
         <div>
